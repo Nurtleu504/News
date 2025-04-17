@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "id": "001",
+      "title": "Казахстан запускает новую цифровую платформу для образования",
+      "description": "Министерство образования Казахстана объявило о запуске новой онлайн-платформы для дистанционного обучения школьников и студентов.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-16T09:00:00Z"
+    },
+    {
+      "id": "002",
+      "title": "Искусственный интеллект: революция в медицине",
+      "description": "Как новые технологии ИИ помогают в диагностике заболеваний и поиске лечения.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-15T14:45:00Z"
+    },
+    {
+      "id": "003",
+      "title": "Цифровизация образования в Казахстане",
+      "description": "Министерство образования объявило о запуске новой онлайн-платформы.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-16T09:00:00Z"
+    },
+    {
+      "id": "004",
+      "title": "Финансовые технологии будущего",
+      "description": "Новая волна цифровых решений в финансовой индустрии открывает больше возможностей.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-14T12:00:00Z"
+    },
+    {
+      "id": "005",
+      "title": "Экологические инициативы в Казахстане",
+      "description": "Новые экологические программы и стартапы в сфере устойчивого развития.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-13T15:45:00Z"
+    },
+    {
+      "id": "006",
+      "title": "Роль ИИ в образовании",
+      "description": "ИИ помогает адаптировать обучение под каждого ученика.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-12T10:30:00Z"
+    },
+    {
+      "id": "007",
+      "title": "Новость, добавленная через Postman",
+      "description": "Описание новости, отправленной вручную.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-17T11:00:00Z"
+    },
+    {
+      "id": "008",
+      "title": "Новость, добавленная через Postman",
+      "description": "Описание новости, отправленной вручную.",
+      "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=60",
+      "date": "2025-04-17T11:00:00Z"
+    },
+    {
+      "id": "6aaf",
+      "articles": [
+        {
+          "id": "001",
+          "title": "Новость 1",
+          "description": "Описание",
+          "imageUrl": "https://...",
+          "date": "2025-04-16T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "348b",
+      "articles": [
+        {
+          "id": "010",
+          "title": "Новость 1",
+          "description": "Описание",
+          "imageUrl": "https://...",
+          "date": "2025-04-16T09:00:00Z"
+        }
+      ]
+    }
+  ]
+}
